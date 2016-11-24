@@ -1,0 +1,1 @@
+.\Tools\xunit.runner.console\2.1.0\tools\xunit.console.exe .\UnitTestsTrainingSamples\BestPractices.Tests\bin\Debug\BestPractices.Tests.dll
